@@ -1,6 +1,6 @@
 # Data Analysis & Data Visualization Projects
 
-Personal Projects working on data analysis skills and visualizations through:
+##Personal Projects working on data analysis skills and visualizations through:
 
 SQL 
   -MySQL
