@@ -13,3 +13,4 @@ Python
     - [Twitter: N95 Visualization](https://github.com/laurenbayson/Data-Analysis-Projects/blob/main/twitter%20N95%20visualization.ipynb)
       -   Tweets gathered from Twitter that include the word "N95"
       -   Sentiments Analysis and WordCloud created
+   - Turn Tweets into csv file
