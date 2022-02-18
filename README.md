@@ -2,7 +2,6 @@
 ## Personal Projects working on data analysis skills and visualizations through:
 
 SQL 
-  - MySQL
   - PostgreSQL
   - pgAdmin
  
