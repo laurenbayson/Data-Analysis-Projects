@@ -1,3 +1,5 @@
+Course from Udemy "The Complete SQL Bootcamp 2022" by Jose Portilla
+
 /*List of facilities that charge a fee to members, and that fee is less than 1/50th of the monthly maintenance cost
 */
 SELECT facid, name, membercost, monthlymaintenance
