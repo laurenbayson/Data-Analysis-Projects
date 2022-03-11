@@ -2,8 +2,9 @@
 ## Personal Projects working on data analysis skills and visualizations through:
 
 SQL 
-  - PostgreSQL
-    - pgAdmin
+  - PostgreSQL & pgAdmin
+    -    [Health Club Exploration](https://github.com/laurenbayson/Data-Analysis-Projects/blob/main/SQL/Health%20Club%20Exploration)
+        -    Using joins to find members and bookings
  
 Python
   - Jupyter Notebook: NumPy, Pandas, Matplotlib, Seabron
