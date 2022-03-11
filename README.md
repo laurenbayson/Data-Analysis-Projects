@@ -3,7 +3,7 @@
 
 SQL 
   - PostgreSQL
-  - pgAdmin
+    - pgAdmin
  
 Python
   - Jupyter Notebook: NumPy, Pandas, Matplotlib, Seabron
