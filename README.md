@@ -9,6 +9,7 @@ SQL
 Python
   - Jupyter Notebook: NumPy, Pandas, Matplotlib, Seabron
     - [911 Project](https://github.com/laurenbayson/Data-Analysis-Projects/blob/main/Jupyter%20Notebook%20Python/911%20Calls%20Data%20Project%20.ipynb)
+       - Exploring the types of emergency services, plotting & filtering calls by emergency servies, creating heatmaps & clustermap   
     - [Finance: Stocks](https://github.com/laurenbayson/Data-Analysis-Projects/blob/main/Jupyter%20Notebook%20Python/Finance%20Stocks%20Project.ipynb)
     - [Twitter: N95 Visualization](https://github.com/laurenbayson/Data-Analysis-Projects/blob/main/Twitter/twitter%20N95%20visualization.ipynb)
       - [Turn Tweets into csv file](https://github.com/laurenbayson/Data-Analysis-Projects/blob/main/Twitter/get_tweets.py)
